@@ -4,8 +4,6 @@
 
 ## Repo Structure
 
-
-
 ## Task Description
 
 ### Task Implement Fundamental 
